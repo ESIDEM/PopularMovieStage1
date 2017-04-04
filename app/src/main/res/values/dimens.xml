@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="title_area_height">140dp</dimen>
+    <dimen name="title_area_height_land">86dp</dimen>
+    <dimen name="area_margin">8dp</dimen>
+    <dimen name="elevation">8dp</dimen>
+    <dimen name="vertical_margin">28dp</dimen>
+    <dimen name="line_thickness">2dp</dimen>
+
+    <!--Text Sizes-->
+    <dimen name="header_one_text_size">48sp</dimen>
+    <dimen name="header_two_text_size">28sp</dimen>
+    <dimen name="content_text_size">16sp</dimen>
+
+</resources>
